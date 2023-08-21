@@ -1,5 +1,5 @@
 
-f = open("day1_data.txt", 'r')
+f = open("day1_pt1_data.txt", 'r')
 data = []
 x = 0
 
