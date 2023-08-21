@@ -16,6 +16,5 @@ for i in range(0, len(data_list)):
             t = 0
         else:
             t = 0
-    
-    
-    print(biggest)
+
+return biggest
